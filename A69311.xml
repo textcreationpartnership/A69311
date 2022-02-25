@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation deuised by the kinges hyghnes, with thaduise of his most honorable counsell, to auoide and abolish suche englishe bookes, as conteine pernicious and detestable errours and heresies made the .viii. daye of Iuly, the .xxxviii. yere of the kynges maiesties most gracious reigne.</title>
+            <title>Proclamations. 1546-08-07</title>
+            <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1546</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69311</idno>
+            <idno type="STC">STC 7809</idno>
+            <idno type="STC">ESTC S109279</idno>
+            <idno type="EEBO-CITATION">99844929</idno>
+            <idno type="PROQUEST">99844929</idno>
+            <idno type="VID">9787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 10:22, 152:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation deuised by the kinges hyghnes, with thaduise of his most honorable counsell, to auoide and abolish suche englishe bookes, as conteine pernicious and detestable errours and heresies made the .viii. daye of Iuly, the .xxxviii. yere of the kynges maiesties most gracious reigne.</title>
+                  <title>Proclamations. 1546-08-07</title>
+                  <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+               </titleStmt>
+               <extent>2 leaves   </extent>
+               <publicationStmt>
+                  <publisher>Th. Berthelet regius impressor excudebat. Cum priuilegio ad imprimendum solum,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1546]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>First leaf only filmed on reel 10.</note>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+                  <note>Appears at reels 10 and 152 (Society of Antiquaries copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of the press --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:9787:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>A Proclamation deuiſed by the kinges hyghnes, with thaduiſe of his moſt honorable counſell, to auowe and aboliſh ſuch engliſhe bookes, as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pernicious deteſtable errours and hereſies, made <date>the .viii. daye of Iuly, the .<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>viii. yere of the kynges ma<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſties moſt gracious reigne.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Kinges mooſt excellent maieſtie, vnderſtanding howe vnder pretence of expounding and declaring the truth of Gods ſcripture, diuers leude and euil diſpoſed perſons haue taken occaſion to vtter and ſowe abrode by Bokes imprinted in thengliſh tongue, ſundry pernicious and deteſtable errours and hereſies, not only contrary to the lawes of this Realme, but alſo repugnant to the true ſence of Gods lawe and his word. By reaſon wherof certayne men of late to the diſtruction of theyr owne body and ſoule, and to the euill example of others, haue attempted arrogantly and maliciouſely to im<g ref="char:EOLhyphen"/>pugne the trueth, and therwith trouble the ſobre, quiet and godly religion, vnited and eſtabliſhed vnder the Kinges maieſtie in this his Realme: His highnes minding to forſee the dangers that might en<g ref="char:EOLhyphen"/>ſue therof, and tendring therwith like a moſt chriſten prince the conſeruacion of the true religion in his maieſties do<g ref="char:EOLhyphen"/>minions from ſuch corrupt and peſtilent teaching, as hath of late ſecretly crept in by ſuch printed bokes, hath thought it neceſſarily requiſite to deuiſe by his proclamation and auctoritie of the ſame howe to auoyde and eſchewe the ſayde daungers and inconuenience, and to pourge his common welth of ſuch pernicious doctrine as by bokes in thengliſhe tonge hath ben of late diuulged abrode in this his graces realm. For which conſideration, hauing the deuil ſo tempred the ſetting abrode of his falſehed as he many times annexed truthes therevnto, whereby to induce and deceyue the ſimple people. So as nowe the purging of that which is noyſome and hurtefull, can not without taking awaye ſome parte of that being tollerable be put in execution, being the bokes increaſed to an infinite numbre, and vnknowen diuerſities of titles and names wherby ſpecially to reuoke adnull or condemne the ſame. The kynges maieſtie is en<g ref="char:EOLhyphen"/>forced to uſe his generall prohibition commaundement and proclamation as foloweth.</p>
+            <p>FIrſte, that from henceforth no man woman or other perſon, of what eſtate condition or degree ſo euer be or they be, ſhall after they laſt daye of Auguſt next inſuing, receiue take haue or kepe in his or their poſſeſſion, the text of the newe Teſtament of Tindals or Couerdals tranſlation in engliſhe, nor any other than is permitted by thacte of Parli<g ref="char:EOLhyphen"/>ament, made in the ſeſſion of y<hi rend="sup">e</hi> parliament holden at Weſtminſter in the .xxxiiii. &amp; .xxxv. yere of his maieſties moſt no<g ref="char:EOLhyphen"/>ble reigne: not after the ſayde day, ſhall receiue haue take or keys in his or their poſſeſſion any maner of booke printed or written in the engliſhe tongue, which be or ſhalbe ſette forth, in the names of Frith Tindall, Wicliff, Ioy, Roy, Baſile, Bale, Barnes, Couerdale, Tourner, Tracy or by any of them, or any other boke or bokes, conteining matter contrary to the Kinges maieſties booke, called, A neceſſary doctrine and erudition for any chriſten man, or any thing therin con<g ref="char:EOLhyphen"/>teyned: or any other booke or bookes prohibited or forbidden to be had or kept by the act of parliament holden at Weſt<g ref="char:EOLhyphen"/>minſter in the .xxxiiii. and .xxxv. yere of the kinges maieſties moſt victorious reygne aboueſayde.</p>
+            <p>And furthermore the kynges maieſtie ſtrayghtly chargeth and commaundeth, that who ſo euer, of what eſtate de<g ref="char:EOLhyphen"/>gree or condition ſo euer they or he be hath nowe in his or their cuſtody and ſuch boke printed or written in engliſh, as doth conteine matter contrary to the ſaid doctrine ſet forth by the kinges maieſtie, or be ſet forth in the name of Frith Cuidall, Wicliffe, Ioy, Roie, Baſile, Bale, Barnes, Couerdale, Turner, Tracy: Or els the ſame booke or bookes in en<g ref="char:EOLhyphen"/>gliſhe be the newe Teſtament of Tindals or Couerdales tranſlation, or any other prohibited by the ſayd acte made An<g ref="char:EOLhyphen"/>no .xxxiiii. and .xxxv. ſhall before the laſt day of Auguſt next comming, deliuer the ſame engliſhe booke or bookes to hys maſter in that houſeholde, if he be a ſeruaunt or dwell vnder any other. And the maiſter or ruler of the houſe and ſuche other as dwell at large, ſhall deliuer all ſuch bokes of the fortes aforeſaid as they haue, or ſhall come to their handes de<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uered as afore or otherwiſe to the Mayre, bayliffe or chiefe conſtable of the towne, where they dw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, to be by them deliuered ouer openly within .xl. dayes next folowing after the ſayd deliuerie to the ſheriffe of the ſhyre, or to the Biſhop, chauncellour, or commiſſary of the ſame dioceſſe, to thintent the ſayd biſhop chauncellour, commiſſarye, and ſheriffe, and euery of them, ſhall cauſe them incontinently to be open<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ed, which the kinges maieſties pleaſure is, that euery of theim ſhall ſee executed in moſte effectuall ſorte, and of their doinges therin make certificat to the kynges maieſties moſt honorable counſell, before the firſte of October next comming.</p>
+            <p>And to thintent that no man ſhal miſtruſt any daunger of ſuch penal ſtatutes as be paſſed in this behalfe, for keping of the ſayd bokes. The kynges maieſtie is moſt graciouſly contented by this proclamation to pardon that offence to the <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
